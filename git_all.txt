@@ -1,0 +1,602 @@
+commit 12cc879c6aa2d7f8d90c19653db89e608350dd54
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sun Mar 8 23:03:34 2026 +0100
+
+    Neurone CDC
+
+A	Assets/MetaQuest_Neurone.unity
+R063	Assets/Prefab/stirling_engine.prefab.meta	Assets/MetaQuest_Neurone.unity.meta
+M	Assets/MetaQuest_Test1.unity
+A	Assets/Prefab/Materials/cell body_.mat
+A	Assets/Prefab/Materials/cell body_.mat.meta
+D	Assets/Prefab/PenduleColor.png
+D	Assets/Prefab/PendulePesant.prefab
+A	Assets/Prefab/Structure of Neuron.fbx
+R068	Assets/Prefab/pendule_simple.fbx.meta	Assets/Prefab/Structure of Neuron.fbx.meta
+A	Assets/Prefab/animations/neuron_animator.controller
+A	Assets/Prefab/animations/neuron_animator.controller.meta
+A	Assets/Prefab/neurone1.prefab
+R074	Assets/Prefab/pendule_couples.prefab.meta	Assets/Prefab/neurone1.prefab.meta
+D	Assets/Prefab/pendule_couples.fbx
+D	Assets/Prefab/pendule_couples.fbx.meta
+D	Assets/Prefab/pendule_couples.prefab
+D	Assets/Prefab/pendule_simple.fbx
+D	Assets/Prefab/stirling_engine.prefab
+D	Assets/Prefab/temperature_Blender2.fbx
+D	Assets/Prefab/temperature_Blender2.fbx.meta
+D	Assets/Prefab/temperature_Blender2.prefab
+A	Assets/Resources/OVROverlayCanvasSettings.asset
+A	Assets/Resources/OVROverlayCanvasSettings.asset.meta
+M	Assets/Settings/Build Profiles/MetaQuest_Test1.asset
+M	Assets/Settings/DefaultVolumeProfile.asset
+M	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+R057	Assets/Prefab/PendulePesant.prefab.meta	Assets/TextMesh Pro.meta
+A	Assets/TextMesh Pro/Fonts.meta
+A	Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+A	Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+A	Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+A	Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+A	Assets/TextMesh Pro/Resources.meta
+A	Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+A	Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+A	Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+A	Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+A	Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+A	Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+A	Assets/TextMesh Pro/Resources/Sprite Assets.meta
+A	Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+A	Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+A	Assets/TextMesh Pro/Resources/Style Sheets.meta
+A	Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+A	Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+A	Assets/TextMesh Pro/Resources/TMP Settings.asset
+A	Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+A	Assets/TextMesh Pro/Shaders.meta
+A	Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+A	Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta
+A	Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+A	Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+A	Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+A	Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+A	Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta
+A	Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+A	Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+A	Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+A	Assets/TextMesh Pro/Shaders/TMPro.cginc
+A	Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+A	Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+A	Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+A	Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+A	Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+A	Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+A	Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+A	Assets/TextMesh Pro/Sprites.meta
+A	Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+R062	Assets/Prefab/temperature_Blender2.prefab.meta	Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+A	Assets/TextMesh Pro/Sprites/EmojiOne.json
+A	Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+A	Assets/TextMesh Pro/Sprites/EmojiOne.png
+A	Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+A	Assets/materials/cell body .png
+R098	Assets/Prefab/PenduleColor.png.meta	Assets/materials/cell body .png.meta
+R052	website/models/StirlingEngine.fbx	Assets/materials/cell body normal .png
+A	Assets/materials/cell body normal .png.meta
+A	Assets/materials/textures.meta
+A	Assets/materials/textures/cell body .png
+A	Assets/materials/textures/cell body .png.meta
+A	Assets/materials/textures/cell body normal .png
+A	Assets/materials/textures/cell body normal .png.meta
+D	Assets/scripts/AngularCoupling.cs
+D	Assets/scripts/AngularCoupling.cs.meta
+M	Assets/scripts/MqttManager.cs
+D	Assets/scripts/PendulumReporter.cs
+D	Assets/scripts/PendulumReporter.cs.meta
+D	Assets/scripts/SetInitialAngleRuntime.cs
+D	Assets/scripts/SetInitialAngleRuntime.cs.meta
+A	Assets/scripts/dendrites_interaction.cs
+A	Assets/scripts/dendrites_interaction.cs.meta
+M	Packages/manifest.json
+M	Packages/packages-lock.json
+M	ProjectSettings/ProjectVersion.txt
+M	ProjectSettings/TagManager.asset
+M	README.md
+D	website/app.js
+D	website/faviconFablab.ico
+D	website/images/Geoazur.png
+D	website/images/UCAlogoQlarge-inverse.png
+D	website/images/fablab_uca_1024.png
+D	website/index.html
+D	website/models/pendule_couples.fbx
+D	website/models/pendule_simple.fbx
+D	website/models/temperature_Blender2.fbx
+D	website/style.css
+
+commit 3017f0fe844f4b1f00bc460f15e7bac155f34bdf
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Mon Jan 19 19:29:39 2026 +0100
+
+    update
+
+M	Assets/MetaQuest_Test1.unity
+A	Assets/Prefab/Materials/jupiter.mat
+A	Assets/Prefab/Materials/jupiter.mat.meta
+A	Assets/Prefab/heic1522a.jpeg
+A	Assets/Prefab/heic1522a.jpeg.meta
+A	Assets/Prefab/jupiter.fbx
+A	Assets/Prefab/jupiter.fbx.meta
+A	Assets/Prefab/jupiter.prefab
+A	Assets/Prefab/jupiter.prefab.meta
+M	Assets/Settings/PC_RPAsset.asset
+M	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+A	Assets/materials/Jupiter_did.mat
+A	Assets/materials/Jupiter_did.mat.meta
+A	website/app.js
+A	website/faviconFablab.ico
+A	website/images/Geoazur.png
+A	website/images/UCAlogoQlarge-inverse.png
+A	website/images/fablab_uca_1024.png
+A	website/index.html
+A	website/models/StirlingEngine.fbx
+A	website/models/pendule_couples.fbx
+A	website/models/pendule_simple.fbx
+A	website/models/temperature_Blender2.fbx
+A	website/style.css
+
+commit 7727afc2f80f7bdd1f5714f83c3f1ed4cc2448ba
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sun Jan 18 17:46:16 2026 +0100
+
+    Update README.md
+
+M	README.md
+
+commit 7971fbbc4c1c89a8bec7c0a9bd98c3db61558316
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sun Jan 18 17:43:05 2026 +0100
+
+    update
+
+M	Assets/MetaQuest_Test1.unity
+A	Assets/Prefab/PendulePesant.prefab
+R074	Assets/Prefab/pendule2.prefab.meta	Assets/Prefab/PendulePesant.prefab.meta
+D	Assets/Prefab/pendule2.fbx
+D	Assets/Prefab/pendule2.prefab
+A	Assets/Prefab/pendule_couples.fbx
+A	Assets/Prefab/pendule_couples.fbx.meta
+A	Assets/Prefab/pendule_couples.prefab
+A	Assets/Prefab/pendule_couples.prefab.meta
+A	Assets/Prefab/pendule_simple.fbx
+R098	Assets/Prefab/pendule2.fbx.meta	Assets/Prefab/pendule_simple.fbx.meta
+M	Assets/Settings/Build Profiles/MetaQuest_Test1.asset
+M	Assets/Settings/PC_RPAsset.asset
+M	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+A	Assets/scripts/AngularCoupling.cs
+A	Assets/scripts/AngularCoupling.cs.meta
+M	Assets/scripts/MqttManager.cs
+M	Assets/scripts/PendulumReporter.cs
+A	Assets/scripts/SetInitialAngleRuntime.cs
+A	Assets/scripts/SetInitialAngleRuntime.cs.meta
+M	README.md
+
+commit baf81df947f01e10c74dfc7504744b2b2491597f
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Tue Jan 13 23:47:11 2026 +0100
+
+    update 13/01/26
+
+M	Assets/MetaQuest_Test1.unity
+M	Assets/Settings/PC_RPAsset.asset
+M	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+
+commit 1a401833fdf6c6635d5296c37d57b1515e296227
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Mon Jan 12 18:43:44 2026 +0100
+
+    readme update
+
+M	README.md
+
+commit 691983dcb4fba7a1195668f32750aeefff5d8223
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Mon Jan 12 18:33:37 2026 +0100
+
+    add pendulum
+
+M	Assets/MetaQuest_Test1.unity
+A	Assets/Prefab/Materials/Material.001.mat
+A	Assets/Prefab/Materials/Material.001.mat.meta
+A	Assets/Prefab/Materials/Material.003.mat
+A	Assets/Prefab/Materials/Material.003.mat.meta
+A	Assets/Prefab/PenduleColor.png
+A	Assets/Prefab/PenduleColor.png.meta
+A	Assets/Prefab/pendule2.fbx
+A	Assets/Prefab/pendule2.fbx.meta
+A	Assets/Prefab/pendule2.prefab
+A	Assets/Prefab/pendule2.prefab.meta
+M	Assets/scripts/MqttManager.cs
+A	Assets/scripts/PendulumReporter.cs
+A	Assets/scripts/PendulumReporter.cs.meta
+M	README.md
+
+commit a0827e39cd13db4342b075f11bd1024e670aa7dd
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sat Jan 10 23:42:30 2026 +0100
+
+    generalization gauges
+
+M	Assets/scripts/MqttManager.cs
+M	README.md
+
+commit e5187c36bc813e8f8f5bde050289f19976f942a9
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sat Jan 10 23:30:23 2026 +0100
+
+    add type gauges
+
+M	Assets/MetaQuest_Test1.unity
+M	Assets/Settings/Build Profiles/MetaQuest_Test1.asset
+M	Assets/Settings/PC_RPAsset.asset
+M	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+M	Assets/scripts/MqttManager.cs
+M	README.md
+
+commit 3571a94b920f5e590ef9268973c2cc4baedd5033
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Fri Jan 9 14:32:13 2026 +0100
+
+    add thermometer
+
+M	Assets/MetaQuest_Test1.unity
+R077	Assets/Nouveau dossier.meta	Assets/Models.meta
+A	Assets/Models/gauge1.meta
+A	Assets/Models/gauge1/Themometer.png
+A	Assets/Models/gauge1/Themometer.png.meta
+A	Assets/Models/gauge1/temperature_Blender.blend
+A	Assets/Models/gauge1/temperature_Blender.blend.meta
+A	Assets/Prefab/Materials/Glass 1.mat
+A	Assets/Prefab/Materials/Glass 1.mat.meta
+A	Assets/Prefab/Materials/Orange_PLA.001.mat
+A	Assets/Prefab/Materials/Orange_PLA.001.mat.meta
+A	Assets/Prefab/Materials/Orange_PLA.mat
+A	Assets/Prefab/Materials/Orange_PLA.mat.meta
+A	Assets/Prefab/Materials/Steel.mat
+A	Assets/Prefab/Materials/Steel.mat.meta
+A	Assets/Prefab/Materials/TempDialGraphic.mat
+A	Assets/Prefab/Materials/TempDialGraphic.mat.meta
+A	Assets/Prefab/Materials/Yellow_PLA.mat
+A	Assets/Prefab/Materials/Yellow_PLA.mat.meta
+A	Assets/Prefab/temperature_Blender2.fbx
+A	Assets/Prefab/temperature_Blender2.fbx.meta
+A	Assets/Prefab/temperature_Blender2.prefab
+A	Assets/Prefab/temperature_Blender2.prefab.meta
+M	Assets/Settings/Build Profiles/MetaQuest_Test1.asset
+A	Assets/images/thermometer.png
+A	Assets/images/thermometer.png.meta
+M	Assets/materials/SuperBouncy.physicMaterial
+M	Assets/scripts/MqttManager.cs
+M	README.md
+
+commit 983dd1e3abecb78c40b64161d18a8f57ef640797
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Fri Jan 9 12:15:44 2026 +0100
+
+    bounce ball
+
+M	Assets/MetaQuest_Test1.unity
+A	Assets/materials/SuperBouncy.physicMaterial
+A	Assets/materials/SuperBouncy.physicMaterial.meta
+
+commit 3d44516e06638fedfdc24786f4e4e0322e7a7e6f
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Fri Jan 9 11:09:52 2026 +0100
+
+    update
+
+D	Assets/Resources/PerformanceTestRunInfo.json
+D	Assets/Resources/PerformanceTestRunInfo.json.meta
+D	Assets/Resources/PerformanceTestRunSettings.json
+D	Assets/Resources/PerformanceTestRunSettings.json.meta
+D	Assets/StreamingAssets/RuntimeActionBindings.json
+D	Assets/StreamingAssets/RuntimeActionBindings.json.meta
+
+commit e05b54762b3b0e4f04ce38680124abb90c528a8f
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Fri Jan 9 11:07:54 2026 +0100
+
+    add mqtt
+    
+    mqtt json
+
+M	.gitignore
+M	Assets/MetaQuest_Test1.unity
+A	Assets/Plugins/M2Mqtt.Net.dll
+A	Assets/Plugins/M2Mqtt.Net.dll.meta
+A	Assets/Resources/PerformanceTestRunInfo.json
+A	Assets/Resources/PerformanceTestRunInfo.json.meta
+A	Assets/Resources/PerformanceTestRunSettings.json
+A	Assets/Resources/PerformanceTestRunSettings.json.meta
+A	Assets/Resources/secrets.json.meta
+A	Assets/StreamingAssets/RuntimeActionBindings.json
+A	Assets/StreamingAssets/RuntimeActionBindings.json.meta
+A	Assets/images/scene_preview.png.meta
+A	Assets/scripts/MqttManager.cs
+A	Assets/scripts/MqttManager.cs.meta
+A	Assets/scripts/SecretsLoader.cs
+A	Assets/scripts/SecretsLoader.cs.meta
+M	README.md
+
+commit 56a2cfeed67021d0ec4870e4cda804e4b44eac0c
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sun Jan 4 21:58:07 2026 +0100
+
+    Update README.md
+    
+    update
+
+M	README.md
+
+commit a92f0d37d3d8d39bc97c02dd50f71d23cf203e85
+Author: Didier Orlandi <didier.orlandi@wanadoo.fr>
+Date:   Sun Jan 4 21:55:30 2026 +0100
+
+    Initial commit
+
+A	.gitattributes
+A	.gitignore
+A	Assets/Ball_color.mat
+A	Assets/Ball_color.mat.meta
+A	Assets/InputSystem_Actions.inputactions
+A	Assets/InputSystem_Actions.inputactions.meta
+A	Assets/MetaAssets.meta
+A	Assets/MetaAssets/Materials.meta
+A	Assets/MetaAssets/Materials/787246.meta
+A	Assets/MetaAssets/Materials/787246/787246_M.mat
+A	Assets/MetaAssets/Materials/787246/787246_M.mat.meta
+A	Assets/MetaAssets/Prefabs.meta
+A	Assets/MetaAssets/Prefabs/787246.meta
+A	Assets/MetaAssets/Prefabs/787246/787246_M.fbx
+A	Assets/MetaAssets/Prefabs/787246/787246_M.fbx.meta
+A	Assets/MetaAssets/Prefabs/787246/787246_M.prefab
+A	Assets/MetaAssets/Prefabs/787246/787246_M.prefab.meta
+A	Assets/MetaAssets/Textures.meta
+A	Assets/MetaAssets/Textures/787246.meta
+A	Assets/MetaAssets/Textures/787246/787246_M.png
+A	Assets/MetaAssets/Textures/787246/787246_M.png.meta
+A	Assets/MetaQuest_Test1.unity
+A	Assets/MetaQuest_Test1.unity.meta
+A	Assets/Nouveau dossier.meta
+A	Assets/Oculus.meta
+A	Assets/Oculus/OculusProjectConfig.asset
+A	Assets/Oculus/OculusProjectConfig.asset.meta
+A	Assets/Plugins.meta
+A	Assets/Plugins/Android.meta
+A	Assets/Plugins/Android/AndroidManifest.xml
+A	Assets/Plugins/Android/AndroidManifest.xml.meta
+A	Assets/Prefab.meta
+A	Assets/Prefab/Materials.meta
+A	Assets/Prefab/Materials/GlassDid.mat
+A	Assets/Prefab/Materials/GlassDid.mat.meta
+A	Assets/Prefab/Materials/cloth.mat
+A	Assets/Prefab/Materials/cloth.mat.meta
+A	Assets/Prefab/Materials/glass.mat
+A	Assets/Prefab/Materials/glass.mat.meta
+A	Assets/Prefab/Materials/gold.mat
+A	Assets/Prefab/Materials/gold.mat.meta
+A	Assets/Prefab/Materials/platinum.mat
+A	Assets/Prefab/Materials/platinum.mat.meta
+A	Assets/Prefab/Materials/redvelvet.mat
+A	Assets/Prefab/Materials/redvelvet.mat.meta
+A	Assets/Prefab/Sphere1.prefab
+A	Assets/Prefab/Sphere1.prefab.meta
+A	Assets/Prefab/animations.meta
+A	Assets/Prefab/animations/Stirling_animator.controller
+A	Assets/Prefab/animations/Stirling_animator.controller.meta
+A	Assets/Prefab/stirling-engine-parametric-modeling-002.meta
+A	Assets/Prefab/stirling-engine-parametric-modeling-002/source.meta
+A	Assets/Prefab/stirling-engine-parametric-modeling-002/source/stirling_engine_test_002.fbx
+A	Assets/Prefab/stirling-engine-parametric-modeling-002/source/stirling_engine_test_002.fbx.meta
+A	Assets/Prefab/stirling_engine.prefab
+A	Assets/Prefab/stirling_engine.prefab.meta
+A	Assets/Readme.asset
+A	Assets/Readme.asset.meta
+A	Assets/Resources.meta
+A	Assets/Resources/ImmersiveDebuggerSettings.asset
+A	Assets/Resources/ImmersiveDebuggerSettings.asset.meta
+A	Assets/Resources/InputActions.asset
+A	Assets/Resources/InputActions.asset.meta
+A	Assets/Resources/MetaXRAcousticMaterialMapping.asset
+A	Assets/Resources/MetaXRAcousticMaterialMapping.asset.meta
+A	Assets/Resources/MetaXRAcousticSettings.asset
+A	Assets/Resources/MetaXRAcousticSettings.asset.meta
+A	Assets/Resources/MetaXRAudioSettings.asset
+A	Assets/Resources/MetaXRAudioSettings.asset.meta
+A	Assets/Resources/OVRBuildConfig.asset
+A	Assets/Resources/OVRBuildConfig.asset.meta
+A	Assets/Resources/OVRPlatformToolSettings.asset
+A	Assets/Resources/OVRPlatformToolSettings.asset.meta
+A	Assets/Resources/OculusRuntimeSettings.asset
+A	Assets/Resources/OculusRuntimeSettings.asset.meta
+A	Assets/Samples.meta
+A	Assets/Samples/Meta XR Core SDK.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/CustomSceneManager.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/CustomSceneManager/Volume.mat
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/CustomSceneManager/Volume.mat.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectMeshMaterial.mat
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectMeshMaterial.mat.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectPlaneMaterial.mat
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectPlaneMaterial.mat.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectVolumeMaterial.mat
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectVolumeMaterial.mat.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/MixedReality.unity
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/MixedReality.unity.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Ceiling.prefab
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Ceiling.prefab.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Fallback.prefab
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Fallback.prefab.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Floor.prefab
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Floor.prefab.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Wall.prefab
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Wall.prefab.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/MRSceneObjectPrefab.prefab
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/MRSceneObjectPrefab.prefab.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scenes.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scenes/CustomSceneManager.unity
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scenes/CustomSceneManager.unity.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/BasicSceneManager.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/BasicSceneManager.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManager.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManager.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManagerHelper.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManagerHelper.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/PrefabSceneManager.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/PrefabSceneManager.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SceneManagerHelper.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SceneManagerHelper.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SnapshotSceneManager.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SnapshotSceneManager.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/SceneModelLoader.cs
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/SceneModelLoader.cs.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Textures.meta
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Textures/Checker.png
+A	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Textures/Checker.png.meta
+A	Assets/Scenes.meta
+A	Assets/Scenes/SampleScene.unity
+A	Assets/Scenes/SampleScene.unity.meta
+A	Assets/Settings.meta
+A	Assets/Settings/Build Profiles.meta
+A	Assets/Settings/Build Profiles/MetaQuest_Test1.asset
+A	Assets/Settings/Build Profiles/MetaQuest_Test1.asset.meta
+A	Assets/Settings/DefaultVolumeProfile.asset
+A	Assets/Settings/DefaultVolumeProfile.asset.meta
+A	Assets/Settings/Mobile_RPAsset.asset
+A	Assets/Settings/Mobile_RPAsset.asset.meta
+A	Assets/Settings/Mobile_Renderer.asset
+A	Assets/Settings/Mobile_Renderer.asset.meta
+A	Assets/Settings/PC_RPAsset.asset
+A	Assets/Settings/PC_RPAsset.asset.meta
+A	Assets/Settings/PC_Renderer.asset
+A	Assets/Settings/PC_Renderer.asset.meta
+A	Assets/Settings/SampleSceneProfile.asset
+A	Assets/Settings/SampleSceneProfile.asset.meta
+A	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+A	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
+A	Assets/StreamingAssets.meta
+A	Assets/TutorialInfo.meta
+A	Assets/TutorialInfo/Icons.meta
+A	Assets/TutorialInfo/Icons/URP.png
+A	Assets/TutorialInfo/Icons/URP.png.meta
+A	Assets/TutorialInfo/Layout.wlt
+A	Assets/TutorialInfo/Layout.wlt.meta
+A	Assets/TutorialInfo/Scripts.meta
+A	Assets/TutorialInfo/Scripts/Editor.meta
+A	Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+A	Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+A	Assets/TutorialInfo/Scripts/Readme.cs
+A	Assets/TutorialInfo/Scripts/Readme.cs.meta
+A	Assets/XR 1.meta
+A	Assets/XR 2.meta
+A	Assets/XR 3.meta
+A	Assets/XR 4.meta
+A	Assets/XR 5.meta
+A	Assets/XR 6.meta
+A	Assets/XR.meta
+A	Assets/XR/Loaders.meta
+A	Assets/XR/Loaders/OpenXRLoader.asset
+A	Assets/XR/Loaders/OpenXRLoader.asset.meta
+A	Assets/XR/Settings 1.meta
+A	Assets/XR/Settings 2.meta
+A	Assets/XR/Settings 3.meta
+A	Assets/XR/Settings 4.meta
+A	Assets/XR/Settings 5.meta
+A	Assets/XR/Settings 6.meta
+A	Assets/XR/Settings.meta
+A	Assets/XR/Settings/OpenXR Editor Settings.asset
+A	Assets/XR/Settings/OpenXR Editor Settings.asset.meta
+A	Assets/XR/Settings/OpenXR Package Settings.asset
+A	Assets/XR/Settings/OpenXR Package Settings.asset.meta
+A	Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+A	Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta
+A	Assets/images.meta
+A	Assets/images/fablab_uca_1024.png
+A	Assets/images/fablab_uca_1024.png.meta
+A	Assets/images/iconeQuest3_1.png
+A	Assets/images/iconeQuest3_1.png.meta
+A	Assets/images/scene_preview.png
+A	Assets/materials.meta
+A	Assets/materials/fablab_logo.mat
+A	Assets/materials/fablab_logo.mat.meta
+A	Assets/scripts.meta
+A	Assets/scripts/SlowRotate.cs
+A	Assets/scripts/SlowRotate.cs.meta
+A	LICENSE
+A	Packages/manifest.json
+A	Packages/packages-lock.json
+A	ProjectSettings/AudioManager.asset
+A	ProjectSettings/ClusterInputManager.asset
+A	ProjectSettings/DynamicsManager.asset
+A	ProjectSettings/EditorBuildSettings.asset
+A	ProjectSettings/EditorSettings.asset
+A	ProjectSettings/GraphicsSettings.asset
+A	ProjectSettings/InputManager.asset
+A	ProjectSettings/MemorySettings.asset
+A	ProjectSettings/MultiplayerManager.asset
+A	ProjectSettings/NavMeshAreas.asset
+A	ProjectSettings/PackageManagerSettings.asset
+A	ProjectSettings/Packages/com.unity.dedicated-server/MultiplayerRolesSettings.asset
+A	ProjectSettings/Physics2DSettings.asset
+A	ProjectSettings/PresetManager.asset
+A	ProjectSettings/ProjectSettings.asset
+A	ProjectSettings/ProjectVersion.txt
+A	ProjectSettings/QualitySettings.asset
+A	ProjectSettings/SceneTemplateSettings.json
+A	ProjectSettings/ShaderGraphSettings.asset
+A	ProjectSettings/TagManager.asset
+A	ProjectSettings/TimeManager.asset
+A	ProjectSettings/URPProjectSettings.asset
+A	ProjectSettings/UnityConnectSettings.asset
+A	ProjectSettings/VFXManager.asset
+A	ProjectSettings/VersionControlSettings.asset
+A	ProjectSettings/XRSettings.asset
+A	README.md

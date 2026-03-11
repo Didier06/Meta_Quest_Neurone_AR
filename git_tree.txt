@@ -1,0 +1,298 @@
+100644 blob dfe0770424b2a19faf507a501ebfc23be8f54e7b	.gitattributes
+100644 blob f862a02e981997852554e56aa843bf980f9ba75d	.gitignore
+100644 blob bd53a8ed5a71f04f2ca0627340840d7972c30b77	Assets/Ball_color.mat
+100644 blob fdf25dd2ee4a7313681c9e69ffc68d4d00390511	Assets/Ball_color.mat.meta
+100644 blob 1a12cb91b67132fda366ae04ba2662092ed8781d	Assets/InputSystem_Actions.inputactions
+100644 blob 6b38b043d9df2701a655e0a0e522d7072b190527	Assets/InputSystem_Actions.inputactions.meta
+100644 blob 8cc36bb860393f228384bc232ffa959acfa67612	Assets/MetaAssets.meta
+100644 blob e16d1893a63bcb05377ec19eb0dced5f4510d375	Assets/MetaAssets/Materials.meta
+100644 blob 9e68369671a39032617840dd3d5894dd6d945fc9	Assets/MetaAssets/Materials/787246.meta
+100644 blob 94d1b75c30aab31c5ab81c5efd4a6aef05460954	Assets/MetaAssets/Materials/787246/787246_M.mat
+100644 blob dfe682440023dfd86964a91c69f7255518215c1a	Assets/MetaAssets/Materials/787246/787246_M.mat.meta
+100644 blob 4478558ae0deb5fe372c4cd97284165ae409a8c6	Assets/MetaAssets/Prefabs.meta
+100644 blob 2bef1f8db5d00652a5de10113799e01c72f3f29d	Assets/MetaAssets/Prefabs/787246.meta
+100644 blob cfd21c3a59e9b838ffd6c47d8c3e33bea3a4f1fc	Assets/MetaAssets/Prefabs/787246/787246_M.fbx
+100644 blob 1db426fad30023bdcb694eb7c2ac281c04434117	Assets/MetaAssets/Prefabs/787246/787246_M.fbx.meta
+100644 blob a1a1f2f11beda6dc0340f27ab338c08b8c51d641	Assets/MetaAssets/Prefabs/787246/787246_M.prefab
+100644 blob eba0962e8842b0a0906b6c1bf1fd36deaacf1df3	Assets/MetaAssets/Prefabs/787246/787246_M.prefab.meta
+100644 blob 76262388791146fba33156fa9402b290360f8961	Assets/MetaAssets/Textures.meta
+100644 blob 88e5cdc7f196f82849ec327423568b6db374221b	Assets/MetaAssets/Textures/787246.meta
+100644 blob 3c7c4657cffe7967227d8dff15b149697997f7ae	Assets/MetaAssets/Textures/787246/787246_M.png
+100644 blob c66276ec16fa8e15abca7d91572b683268d85b19	Assets/MetaAssets/Textures/787246/787246_M.png.meta
+100644 blob 0aa204fd19df9840e9e0330055d2e0c6ffcae965	Assets/MetaQuest_Test1.unity
+100644 blob e377e73c1e6db2702b514226cba6270e264e5bf6	Assets/MetaQuest_Test1.unity.meta
+100644 blob c4bc4f310def4f77cfdb65ebb88c8f60edfe080e	Assets/Models.meta
+100644 blob a0be4cf662d6185e0066e51776e61de60435334f	Assets/Models/gauge1.meta
+100644 blob 74ff702d162326755e7de82e09206e1381c9ca83	Assets/Models/gauge1/Themometer.png
+100644 blob b0f545f5738cea0215d9310e316c7f3cbb6d9dd8	Assets/Models/gauge1/Themometer.png.meta
+100644 blob c6f177253fffae5c0c21b6fc5f457a2c28948ace	Assets/Models/gauge1/temperature_Blender.blend
+100644 blob c251a38bfaefbeaa44acc9c1bb1d71f88290ce19	Assets/Models/gauge1/temperature_Blender.blend.meta
+100644 blob 3e5004a537e4bc6b29599821768c425db9148018	Assets/Oculus.meta
+100644 blob 0e0b7ea97a98ef9499261725acc906489572375e	Assets/Oculus/OculusProjectConfig.asset
+100644 blob 7718ab8b4f9eda2307baa33a0c2c6f13dac0618b	Assets/Oculus/OculusProjectConfig.asset.meta
+100644 blob 7f4bb7da26eb28c61775cf006e6ed399e701c577	Assets/Plugins.meta
+100644 blob fdc5cd4c68a1fffa62831e58c814fc4650aa62d8	Assets/Plugins/Android.meta
+100644 blob 4190154f1aa8333ca0e96ab54a3549b101e39a8b	Assets/Plugins/Android/AndroidManifest.xml
+100644 blob 46e0db158493c956c6e1620ddbd01db26670dc1b	Assets/Plugins/Android/AndroidManifest.xml.meta
+100644 blob 28e8f4c699bc1d794fac396ca5e5f3d98e48a53e	Assets/Plugins/M2Mqtt.Net.dll
+100644 blob 60d0724e27e974ea043b9eeff77abf113f0026ec	Assets/Plugins/M2Mqtt.Net.dll.meta
+100644 blob d0c4ef58b3be284d7848a1ccbf5cad5b4d917a54	Assets/Prefab.meta
+100644 blob 693182b6510e11520a68984f342e8ccc95e77c90	Assets/Prefab/Materials.meta
+100644 blob edcaafa74f092d6b90e560c576767aafae69c3fa	Assets/Prefab/Materials/Glass 1.mat
+100644 blob e05e8ffc0cc17b75bfd8692898ae492431a92f86	Assets/Prefab/Materials/Glass 1.mat.meta
+100644 blob e99fc1ce3b19a81608bed1b19d55dc6ffc09da2a	Assets/Prefab/Materials/GlassDid.mat
+100644 blob 063f0eb3c41e5b5dac18bf79d562c4e47e553ecb	Assets/Prefab/Materials/GlassDid.mat.meta
+100644 blob b3a7e82304638db0454e352817e8b7b890fa0fd1	Assets/Prefab/Materials/Material.001.mat
+100644 blob 29999e7020872718ffcb8acfb22a867a8b6ae108	Assets/Prefab/Materials/Material.001.mat.meta
+100644 blob be7a603a1c06f45b5de055616fe6f98b40dd7830	Assets/Prefab/Materials/Material.003.mat
+100644 blob 989f2a2792478afd71ef95cba935b4a7a8a7febd	Assets/Prefab/Materials/Material.003.mat.meta
+100644 blob cf1693c7b44bc169ae846cbaa95cd629abb4a521	Assets/Prefab/Materials/Orange_PLA.001.mat
+100644 blob 6dd77e32117662c16c00da49df27de0845ae4ee9	Assets/Prefab/Materials/Orange_PLA.001.mat.meta
+100644 blob 903634f7c2e94658a3d11644e765dc1aae9bf505	Assets/Prefab/Materials/Orange_PLA.mat
+100644 blob d9e82a71b4c6bfd29fa2ebd3caf518235683dd8f	Assets/Prefab/Materials/Orange_PLA.mat.meta
+100644 blob 307821e17ab26b39f071e2373aee67a043df450d	Assets/Prefab/Materials/Steel.mat
+100644 blob 7273549e025f35e8b37d92b072ab9cbcee1bee67	Assets/Prefab/Materials/Steel.mat.meta
+100644 blob e78893318179234f63447217a61b86e64a9aa7f0	Assets/Prefab/Materials/TempDialGraphic.mat
+100644 blob 8bb9925856007aea5ef5d30d5b105852b50774e8	Assets/Prefab/Materials/TempDialGraphic.mat.meta
+100644 blob d52e890946acfd7893abe1650eb51a307b03c6f5	Assets/Prefab/Materials/Yellow_PLA.mat
+100644 blob 803b8faf6fe5d78ecf55ac60403a861e8e5a0fbb	Assets/Prefab/Materials/Yellow_PLA.mat.meta
+100644 blob 52bab279f277076fe713f994d873c289a53e43f4	Assets/Prefab/Materials/cloth.mat
+100644 blob 3286d8f2825a19dab7d52f52a2c5e467e5449074	Assets/Prefab/Materials/cloth.mat.meta
+100644 blob 46f87acd0aabd316261773fe965e8b8d7ca88909	Assets/Prefab/Materials/glass.mat
+100644 blob f371f4c214dd45fd1266d457872625894ae989a2	Assets/Prefab/Materials/glass.mat.meta
+100644 blob c13e20b1132f5cd5b9d640f74a9f524d7804f0a2	Assets/Prefab/Materials/gold.mat
+100644 blob 5ad6c8b520050a7964e34a3ff9d6427e20f8cf06	Assets/Prefab/Materials/gold.mat.meta
+100644 blob 5ae115d1d18f3e6f43cf479f907fc532a9660deb	Assets/Prefab/Materials/jupiter.mat
+100644 blob 2d536d73cfbdcb100a1a2b6b1e7b59fbef62c15d	Assets/Prefab/Materials/jupiter.mat.meta
+100644 blob d09cf1697c98523681326c7fe665e0e356534920	Assets/Prefab/Materials/platinum.mat
+100644 blob ba5901fe781cdb5fed9e8dac0a7c38d852565abd	Assets/Prefab/Materials/platinum.mat.meta
+100644 blob dc6a9436aa74053dce9b6c81b621ec8aa74e4238	Assets/Prefab/Materials/redvelvet.mat
+100644 blob 2b32d4bfc9f30f8cc8fa4f8b9a73144a134a3cba	Assets/Prefab/Materials/redvelvet.mat.meta
+100644 blob fc869b00ffd4b1386cf25279896ab9cf5531066a	Assets/Prefab/PenduleColor.png
+100644 blob ea1baeedcb21398cda534f6ba55a60258bc350a1	Assets/Prefab/PenduleColor.png.meta
+100644 blob 706cc85c2ee92b4cfa6156dfbd71ca95d49e196d	Assets/Prefab/PendulePesant.prefab
+100644 blob 07b9b75124785036cf6d598e9295b8809020d59c	Assets/Prefab/PendulePesant.prefab.meta
+100644 blob b1d75f7d8927258613f3443c8b834c5811ce47a0	Assets/Prefab/Sphere1.prefab
+100644 blob 61c2b039f78abecdd489da4248e04cba67cf553d	Assets/Prefab/Sphere1.prefab.meta
+100644 blob f535c066cc4c890555b8e95b522e676d99e97027	Assets/Prefab/animations.meta
+100644 blob 7623525df720c27ede5895c688bbd8f9e23bef36	Assets/Prefab/animations/Stirling_animator.controller
+100644 blob 6172441cf569f1e2244424c7730a0fd7348ae532	Assets/Prefab/animations/Stirling_animator.controller.meta
+100644 blob 3a97fb0f3d66762f0cee5fa58febb14934c5cb15	Assets/Prefab/heic1522a.jpeg
+100644 blob acbba6cf47045746a8f44395da4c8507b58baba3	Assets/Prefab/heic1522a.jpeg.meta
+100644 blob 19fa21c757789dab2c392657dc7f6f1a22964007	Assets/Prefab/jupiter.fbx
+100644 blob c60f17922abfbd1603e41d54694d8e0adbb1e4a0	Assets/Prefab/jupiter.fbx.meta
+100644 blob d7ca5e58ea5cbe530972a461e30944b93ba1e2e2	Assets/Prefab/jupiter.prefab
+100644 blob 9b57199376d6d95b359e31e18d3f57fcb0e527b0	Assets/Prefab/jupiter.prefab.meta
+100644 blob 4446a19c30838f519c4f59263a75963f8c857882	Assets/Prefab/pendule_couples.fbx
+100644 blob f2e1103834672b1bd86984065fad14ccf2372527	Assets/Prefab/pendule_couples.fbx.meta
+100644 blob e9abbfb544f06d51229fb96126a7f8241e9936f9	Assets/Prefab/pendule_couples.prefab
+100644 blob 19abad18516acbe67eaa114c1df1bc7f7b32aeac	Assets/Prefab/pendule_couples.prefab.meta
+100644 blob 5d8bfd8cea7325f94c0a53a60a1a9486feaec08b	Assets/Prefab/pendule_simple.fbx
+100644 blob 8fb5ed03204b87e4d972d14ae1cbc784af774030	Assets/Prefab/pendule_simple.fbx.meta
+100644 blob c13942324af59625b06dab2f57488a809579c564	Assets/Prefab/stirling-engine-parametric-modeling-002.meta
+100644 blob d664dacca7f8772df9b512e0864e6b78b0ca9131	Assets/Prefab/stirling-engine-parametric-modeling-002/source.meta
+100644 blob 8c335d864f991d59e06371ce35840acec6c7a005	Assets/Prefab/stirling-engine-parametric-modeling-002/source/stirling_engine_test_002.fbx
+100644 blob b52654c87686d7697a0bae2bf4c776fec5ff3d4c	Assets/Prefab/stirling-engine-parametric-modeling-002/source/stirling_engine_test_002.fbx.meta
+100644 blob 416a8effd2fd1d2e41c3010a447ee3f729ffbddc	Assets/Prefab/stirling_engine.prefab
+100644 blob 4a31489e0747603ebfdb6e40647a18190e0c0bc0	Assets/Prefab/stirling_engine.prefab.meta
+100644 blob 6efb914e52e2475bf32cc460c7f1cd7675793715	Assets/Prefab/temperature_Blender2.fbx
+100644 blob c9baf701951398655dc20ca1f0bebca9b80cb731	Assets/Prefab/temperature_Blender2.fbx.meta
+100644 blob eae993cfae9185aa69aeb8d9e17bece4f05a1476	Assets/Prefab/temperature_Blender2.prefab
+100644 blob 1c344b4e14191bb5ed53df96d00be32c89373b92	Assets/Prefab/temperature_Blender2.prefab.meta
+100644 blob 77c2f83ce8f788e94bcca20d047cf5bff16c9f5c	Assets/Readme.asset
+100644 blob ab3ad45353adc4c5934ee106b5ec6d48a693326e	Assets/Readme.asset.meta
+100644 blob 6dc974c79bdd0e8450a4cd2440decb67153a89f9	Assets/Resources.meta
+100644 blob 8b3ed15ae51f1be7071d2d52992d93dc42e1b38e	Assets/Resources/ImmersiveDebuggerSettings.asset
+100644 blob a81d8cb7f1f5bfbaf98061de56a0a37ecd7aa204	Assets/Resources/ImmersiveDebuggerSettings.asset.meta
+100644 blob 51ab6cc236708d05f4d2ecbf4be7fbdb8ed25185	Assets/Resources/InputActions.asset
+100644 blob a5e9b54c548e79304beb16aa58aaef841c95de26	Assets/Resources/InputActions.asset.meta
+100644 blob bd9844a04da8d6f9fe30465356474af0b8ddf95b	Assets/Resources/MetaXRAcousticMaterialMapping.asset
+100644 blob 7bb79122ea034ccd117059e4aae2bc766544aceb	Assets/Resources/MetaXRAcousticMaterialMapping.asset.meta
+100644 blob 10c08a14c197e7c644d139ff09d849521d292603	Assets/Resources/MetaXRAcousticSettings.asset
+100644 blob 27aba25e74d6fba0293d826e863e51e964aba520	Assets/Resources/MetaXRAcousticSettings.asset.meta
+100644 blob 98f7f7fb468f2b481808d51ed918282230ce92a7	Assets/Resources/MetaXRAudioSettings.asset
+100644 blob af252f450b8383c41c38a503c8380df9ef3e92dc	Assets/Resources/MetaXRAudioSettings.asset.meta
+100644 blob 2be2bef7027a816657cc042af008c1976d861040	Assets/Resources/OVRBuildConfig.asset
+100644 blob 86622ea440fe835ccd11f2212ff42f5134feb145	Assets/Resources/OVRBuildConfig.asset.meta
+100644 blob 2bd578fecaf018a87e1b2d49fa553d2e6d05bb8d	Assets/Resources/OVRPlatformToolSettings.asset
+100644 blob dbb6e6ea229e68657c4ea472869b4f201ece94e7	Assets/Resources/OVRPlatformToolSettings.asset.meta
+100644 blob 8841dafdd1f1d5e512b288001902762fc049dde9	Assets/Resources/OculusRuntimeSettings.asset
+100644 blob 1077662540dd6be11aec02212d580951988d6fb9	Assets/Resources/OculusRuntimeSettings.asset.meta
+100644 blob 439c8ab0f33e03114a6ada8bd67b1fa89a298fbe	Assets/Resources/secrets.json.meta
+100644 blob 0aabf711251c1e341438d4e21a2dad61cbe92136	Assets/Samples.meta
+100644 blob ecca1910c6c9f568e35b20c156a668ecfa13091e	Assets/Samples/Meta XR Core SDK.meta
+100644 blob 4be879c186bf5bb035c9da04fa95cc58b38ab944	Assets/Samples/Meta XR Core SDK/83.0.1.meta
+100644 blob 9db95455ccaab30db90b8959e3e87ef3f8b95efe	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample.meta
+100644 blob 16d970714a0b7fbf1370d75e33cb0f9f6d352ad9	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials.meta
+100644 blob 5fb4f5453bf520547b135a0e20d669fac4076aa0	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/CustomSceneManager.meta
+100644 blob e8185d0c9cd3e543ff43b471ef30ab4a79dafb1f	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/CustomSceneManager/Volume.mat
+100644 blob f89585799d921cdd86c35476888f6c99aa4419f9	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/CustomSceneManager/Volume.mat.meta
+100644 blob b27d0ce8f95cd51f25b01cae28b275e0e26445bb	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectMeshMaterial.mat
+100644 blob 117893d97b99cb472dac5b5415be25747405c4c4	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectMeshMaterial.mat.meta
+100644 blob f5213340b0f192bec0a4779339cbace563609866	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectPlaneMaterial.mat
+100644 blob 26d9de69a1b10ef7f8aa6ced070d9dbf0bdf4a44	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectPlaneMaterial.mat.meta
+100644 blob 1762598e1c8ea7273a92d00d480e259b6e1d9142	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectVolumeMaterial.mat
+100644 blob 5466848f3832664f4690e5571fbfa1c9f3e23050	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Materials/MRSceneObjectVolumeMaterial.mat.meta
+100644 blob b8c0b897d7d46fae9fac806a8e677be833467a8c	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/MixedReality.unity
+100644 blob 475740e401dbb490df14700fa7a1524fd7e1f4eb	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/MixedReality.unity.meta
+100644 blob 60774cf60c0b03dc0d90024a7f64a43052fb15e9	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs.meta
+100644 blob 4009b2014dd8f7d31ae0653aa139925163b52710	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager.meta
+100644 blob 97a082be0a55e4e3e446c9448436a2da78945529	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Ceiling.prefab
+100644 blob 4c96bc898128f05c8b1eadb820d9bb5cafed39d7	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Ceiling.prefab.meta
+100644 blob e1fd37ec9ecec7f9673658700d378a118c9511a4	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Fallback.prefab
+100644 blob 2ed9516b0e314a0da53c3f31f0ff6fcc5e4d6a9a	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Fallback.prefab.meta
+100644 blob c3bd9f25d83a571676f609e2e5440f2fe895d881	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Floor.prefab
+100644 blob 983ffbd3457640d384e37199cdb21a2e973d0804	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Floor.prefab.meta
+100644 blob dbdcafb499e1574b3de636fb73f437daef2dbb53	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Wall.prefab
+100644 blob d6d284095f13125f74760b6b105855f551cfa16f	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/CustomSceneManager/Wall.prefab.meta
+100644 blob 12ae3128508878be1e799ef3033a268f6f5f591a	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/MRSceneObjectPrefab.prefab
+100644 blob 695f02d94c797c19ec74d7f9ec82dd8aa844f668	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Prefabs/MRSceneObjectPrefab.prefab.meta
+100644 blob 8e94a69df7a992eb5a8c4ddbc5e38ebc78e5b2a8	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scenes.meta
+100644 blob 50cbffe9e7a89ecdf15320d2ce616958437007c7	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scenes/CustomSceneManager.unity
+100644 blob 72bed92bc4496b8951aea55a2dc811102cdb3af9	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scenes/CustomSceneManager.unity.meta
+100644 blob 9eb4dbd02808937fb93f9da07a645bdb7015d71a	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts.meta
+100644 blob 8461e44359b8740814ec73b903e403fc92fbee82	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager.meta
+100644 blob 611e3f56b945cc14659af4e298a3c7fb68e157eb	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/BasicSceneManager.cs
+100644 blob cac9d58fadd6cddb4c2f106b91176db8ad7e7c2a	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/BasicSceneManager.cs.meta
+100644 blob e2c5fcc17e6993b358fa3990b96ec8f1cdad3ed6	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManager.cs
+100644 blob ed16e8e8c2860e370216612ccdffe1713f0d7c1b	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManager.cs.meta
+100644 blob b6aa917a738c7ed1f02dba69eab56c079dc12e20	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManagerHelper.cs
+100644 blob 4d65be77d19b9f7258930344ff10b6f8d2a6c6d9	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/DynamicSceneManagerHelper.cs.meta
+100644 blob cff1f1347ba34460b39d95e2cca2b0ec36abd8ad	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/PrefabSceneManager.cs
+100644 blob 14088a6424c5f2b1e2dd8dfe0d8e4c14e4c7a2b2	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/PrefabSceneManager.cs.meta
+100644 blob ca7559b812fabff949f7f6a5ec83b6a9f4b9ae76	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SceneManagerHelper.cs
+100644 blob 379fa66ec708483f47c3429643fb6394f43b762a	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SceneManagerHelper.cs.meta
+100644 blob bbfb73c4307efda5300dcadb9c095789d0b86827	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SnapshotSceneManager.cs
+100644 blob 92a79e4e416540078535fab1fd4b377dcf915aad	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/CustomSceneManager/SnapshotSceneManager.cs.meta
+100644 blob 0c1d6d1bb83d134e745a8b7c5323cabfcafebb45	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/SceneModelLoader.cs
+100644 blob 0093bb90a97a6070e0ae564f9ad017573fd3806a	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Scripts/SceneModelLoader.cs.meta
+100644 blob 01f0d15767954a8c8c97379855fe666b5ab46e84	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Textures.meta
+100644 blob 6e0b101d642baf27d01cae34f5c266c61df70e15	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Textures/Checker.png
+100644 blob 6a38c8f7764f2638d9260fc5571fc9dcd6bef6b5	Assets/Samples/Meta XR Core SDK/83.0.1/Mixed Reality Sample/Textures/Checker.png.meta
+100644 blob 428a9648b4b8d37eab0e63dc33401237f41e2673	Assets/Scenes.meta
+100644 blob 6413bb4a54404dd808c37cada1467f0071d11835	Assets/Scenes/SampleScene.unity
+100644 blob 9531828bcdf14f20431bd72a953da1c95398af16	Assets/Scenes/SampleScene.unity.meta
+100644 blob 39b94dd76ba033107fe3d6c204e91b9cdc0f8612	Assets/Settings.meta
+100644 blob 5e21b4431788ac3e6abb7f67a790ba9e475b3826	Assets/Settings/Build Profiles.meta
+100644 blob b2b6861c68b0f267319a9f289c4d434e2ed95f42	Assets/Settings/Build Profiles/MetaQuest_Test1.asset
+100644 blob 3d84d6145b4b20b997cc7078c1036101a02f75d8	Assets/Settings/Build Profiles/MetaQuest_Test1.asset.meta
+100644 blob 6fb18220034aca0bdf6ce1ca20aaeb02c0595f39	Assets/Settings/DefaultVolumeProfile.asset
+100644 blob 53b314adfa72d5417bc331688c0b9e5f060d3e73	Assets/Settings/DefaultVolumeProfile.asset.meta
+100644 blob fbacec458dad496f0e58b5ca454f06345a1a6617	Assets/Settings/Mobile_RPAsset.asset
+100644 blob 3660d1516d2a3761aee80b9e0d61a97b729fe4d8	Assets/Settings/Mobile_RPAsset.asset.meta
+100644 blob ea246b25944b5909ccd96814d2f058f15ee54178	Assets/Settings/Mobile_Renderer.asset
+100644 blob a3588b1a9b92579322c8e3256ae87087a842724d	Assets/Settings/Mobile_Renderer.asset.meta
+100644 blob 31fa1263e3d0c69c92413e37a7a5f59a2f7200be	Assets/Settings/PC_RPAsset.asset
+100644 blob e286b2fdd06e896697ca7b75af321f224ce520f2	Assets/Settings/PC_RPAsset.asset.meta
+100644 blob 475b02e55788d3346367feccd62a6b7f954e944e	Assets/Settings/PC_Renderer.asset
+100644 blob ddae6a5f019681e9ab98ea467b7d2ed2a61a1155	Assets/Settings/PC_Renderer.asset.meta
+100644 blob c1b0f6319bcf0c43f2e3186b375c182c5c39340a	Assets/Settings/SampleSceneProfile.asset
+100644 blob b82270c5b2802668616a4cbbe2a6e46fb49e00a5	Assets/Settings/SampleSceneProfile.asset.meta
+100644 blob b945936d4af1b9d80773403d7f3cc0465e12d129	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+100644 blob 81b84f2ae16ada93cf1bea3ad2f74d6d96b5b3e1	Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
+100644 blob e3eb6c3afecbfc5ae6a39ee03fac51bec3980265	Assets/StreamingAssets.meta
+100644 blob a700bca4cfb8422274094ac86eafa0c5e1ddaca4	Assets/TutorialInfo.meta
+100644 blob 1d19fb9917cafa93fc823aa0d17123e7bf853516	Assets/TutorialInfo/Icons.meta
+100644 blob 6194a807e27158f864a7c7677f4cbf62d8b94503	Assets/TutorialInfo/Icons/URP.png
+100644 blob 0f2cab05ff467a6889a91c7fa17c485696f52ea0	Assets/TutorialInfo/Icons/URP.png.meta
+100644 blob 7b50a252d4fa7f5c51fde2731ff1122badbeaacd	Assets/TutorialInfo/Layout.wlt
+100644 blob c0c8c77338f2d6510b1ed8ffcdcd416ce271f020	Assets/TutorialInfo/Layout.wlt.meta
+100644 blob 02da605bac68c56569973b40eaf20d659e09763d	Assets/TutorialInfo/Scripts.meta
+100644 blob f59f09966761eac592bc57ca71143211ed4f7244	Assets/TutorialInfo/Scripts/Editor.meta
+100644 blob ad55ecaa457fec5a68095795cb24759d5594e547	Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+100644 blob f03861810b19e4f2f4734c0d146c2c4cb2f2e413	Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+100644 blob 95f62693b6368237a9586e6ffce4670961877066	Assets/TutorialInfo/Scripts/Readme.cs
+100644 blob 935153ff11b0b001e8b54644def3c3a0b98cbdcb	Assets/TutorialInfo/Scripts/Readme.cs.meta
+100644 blob ee8a17b511b1733b8e9470b18f9c7b13170f5e1f	Assets/XR 1.meta
+100644 blob b37169ee702ccbd746ddd71986ee1c8f771af946	Assets/XR 2.meta
+100644 blob 476cf5dedbf0a20314691aed776d3277f50d2fa4	Assets/XR 3.meta
+100644 blob f12c361cbc53d040f686e46585c9e7e7e8fd0c37	Assets/XR 4.meta
+100644 blob aeac46a2bc1d93dfc6f57ab95bd236ee2d4a8567	Assets/XR 5.meta
+100644 blob 8a5004ecc3d09b1822a5f1fb75e388392d32c49d	Assets/XR 6.meta
+100644 blob e3c41441c3d5aa7f43beee93ce3ffe5540f36ed7	Assets/XR.meta
+100644 blob 9d8b4948cc25af701860adea53a7c27674ed6e67	Assets/XR/Loaders.meta
+100644 blob c177a9fae48842adfca6aa58181cdcb9ea07fbed	Assets/XR/Loaders/OpenXRLoader.asset
+100644 blob 3e991448c64cfefb0000fbbefb1632d11bf192e9	Assets/XR/Loaders/OpenXRLoader.asset.meta
+100644 blob b8e308fc0ae16bb783384209ea9ab0b6577d1d34	Assets/XR/Settings 1.meta
+100644 blob 481794227c16a8405994ae20b0d58b19d0acd62d	Assets/XR/Settings 2.meta
+100644 blob 4845d7f3a69b3a011b6114420161caf1b03fecd7	Assets/XR/Settings 3.meta
+100644 blob 3855f53182bde116e862b96d978664775c454d2e	Assets/XR/Settings 4.meta
+100644 blob d1096c3bdac2353efc0480b91708e560e75b268e	Assets/XR/Settings 5.meta
+100644 blob 0f1a5d34ecff199d5bd42ba9b7a8a48ea9924d26	Assets/XR/Settings 6.meta
+100644 blob ec4ddc92595cd62c6b9785cbc905a6efef3050d7	Assets/XR/Settings.meta
+100644 blob 5abe9d748c2d6f05a5229b62bc062ceb6962367f	Assets/XR/Settings/OpenXR Editor Settings.asset
+100644 blob 3146636d00cd5b902e980e6d70485637ad2d3a7d	Assets/XR/Settings/OpenXR Editor Settings.asset.meta
+100644 blob 33a95fac34ccdf7975e98df5925aa3c0d681b118	Assets/XR/Settings/OpenXR Package Settings.asset
+100644 blob 8542944dc2db6ba268f2b8be85e01f51c9d87e6c	Assets/XR/Settings/OpenXR Package Settings.asset.meta
+100644 blob aac80a911f2d8ff87369e9f3b5de68dd0a37955c	Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+100644 blob 9ff98be176b5b7843bc70287ffcbe67a43bc528a	Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta
+100644 blob 51f9402dee80b423238cd11aa572eba8421e3c7d	Assets/images.meta
+100644 blob 7fd0f99aefdfcb9c37cc9222256d9452dd757d0f	Assets/images/fablab_uca_1024.png
+100644 blob 7d956256e4b8004bca429951b485ae51ce5f4247	Assets/images/fablab_uca_1024.png.meta
+100644 blob 6fd355f2cca46a4058cc4931e7272ef15b9950ae	Assets/images/iconeQuest3_1.png
+100644 blob 91a85436b309fee8d2988333bd3a1a6effc7f296	Assets/images/iconeQuest3_1.png.meta
+100644 blob 1cb1163fa154b6c2851b82621497931e7ad99a6a	Assets/images/scene_preview.png
+100644 blob e576e81ed7e671b4b58b8fabf2fffa676ad1a634	Assets/images/scene_preview.png.meta
+100644 blob 47315a76dfd189a0d991bb1e0746e0aa532bdbe9	Assets/images/thermometer.png
+100644 blob dae98a5657fb737057bba80661288d6f127357d8	Assets/images/thermometer.png.meta
+100644 blob b5f599e33c7a022db2936610711e4fc65b512927	Assets/materials.meta
+100644 blob 7d2e95ba2b21d824dd8f0d9a6a3d241e696b3328	Assets/materials/Jupiter_did.mat
+100644 blob 9062c679761da17432a5164255214025b0a2c16e	Assets/materials/Jupiter_did.mat.meta
+100644 blob ef889d4c12202bf2578c7f4273c3b82a2950a4f0	Assets/materials/SuperBouncy.physicMaterial
+100644 blob 88e9660fe3650cfba11095c5a263244cfc9307ba	Assets/materials/SuperBouncy.physicMaterial.meta
+100644 blob a4cb79c879a9070fafd4fef215a0f054e6d9e585	Assets/materials/fablab_logo.mat
+100644 blob ce29a9b1327590dc68e2c5c504630d127b0672e5	Assets/materials/fablab_logo.mat.meta
+100644 blob e478282c1a11ecd21ce49257e83c7518d54b740e	Assets/scripts.meta
+100644 blob f37154a596319749681753b7cae8783ef576a1e8	Assets/scripts/AngularCoupling.cs
+100644 blob 35421a640d62ff6760aa54657edf17da682e230f	Assets/scripts/AngularCoupling.cs.meta
+100644 blob e8341ddef838fa45137b6a1f863e2e1379d495e5	Assets/scripts/MqttManager.cs
+100644 blob 3306232eb72575cc3a8cc5b32c8fb60a275f7a84	Assets/scripts/MqttManager.cs.meta
+100644 blob 1b6209d23a0660c92c5ddc600fd610a222e560cc	Assets/scripts/PendulumReporter.cs
+100644 blob 70495e569c52c117c94f98f2f904154f8bf948b3	Assets/scripts/PendulumReporter.cs.meta
+100644 blob 83f0706126f59000013c6837001d01667376fc25	Assets/scripts/SecretsLoader.cs
+100644 blob e9b8076d2c9e7e44ebd4c053c9370b5720580ce3	Assets/scripts/SecretsLoader.cs.meta
+100644 blob 248fbdd8ec3abe58c867ee3ae9c320520d5c2e83	Assets/scripts/SetInitialAngleRuntime.cs
+100644 blob b5b6f5fe282addcd0a6e7faadedef54001c3bb3e	Assets/scripts/SetInitialAngleRuntime.cs.meta
+100644 blob 481db24920592e7ee00dd04560c49053d06d7564	Assets/scripts/SlowRotate.cs
+100644 blob 4f53d1e60387744e20ad3f3712da65eacab74ae4	Assets/scripts/SlowRotate.cs.meta
+100644 blob d77ae1f64d421a4b81a710f3e56103de0e8d6250	LICENSE
+100644 blob a5bd16bd9a511b4bfb20b3331bcab98a8856a580	Packages/manifest.json
+100644 blob d61d9c80796be876290e06f03c7a98a950627615	Packages/packages-lock.json
+100644 blob 90aa2697eb271175233ad84fc1b4390fa06caa1f	ProjectSettings/AudioManager.asset
+100644 blob e7886b266a005f4d9d80f2fef8d1649dcfd3ed2b	ProjectSettings/ClusterInputManager.asset
+100644 blob fc90ab9589af00aa403b7aeb17cf53779a9aa571	ProjectSettings/DynamicsManager.asset
+100644 blob d5b6bdda5a5362554aea8c1762052bd7565d93ad	ProjectSettings/EditorBuildSettings.asset
+100644 blob 878c4cb8d33ea203c002885f3f658b5c52d5e3dd	ProjectSettings/EditorSettings.asset
+100644 blob 84b2182fe3e3bc3e639c1e90e9e979e5a2515cc2	ProjectSettings/GraphicsSettings.asset
+100644 blob b16147e954fd861c2e2db769449894d310aa7b26	ProjectSettings/InputManager.asset
+100644 blob 5b5facecace9276319b6e497953ab0429de65b61	ProjectSettings/MemorySettings.asset
+100644 blob 2a936644e0d87339f17484efc93de6f0de5774b1	ProjectSettings/MultiplayerManager.asset
+100644 blob 3b0b7c3d183abdd300112f56965916ef11667f54	ProjectSettings/NavMeshAreas.asset
+100644 blob be4a7974ec170d9bfa288154684b318966c43f13	ProjectSettings/PackageManagerSettings.asset
+100644 blob d72800db061e2089c9807b8f8b745267eb9a20eb	ProjectSettings/Packages/com.unity.dedicated-server/MultiplayerRolesSettings.asset
+100644 blob 6c5cf8a004ac48f27cb36f7cdea139eb4d3e812f	ProjectSettings/Physics2DSettings.asset
+100644 blob 67a94daefe2e6bce3ec73546ad7cda94f702ad22	ProjectSettings/PresetManager.asset
+100644 blob ba6081b3d4b2ca70fc323467e4d3e42abd481b61	ProjectSettings/ProjectSettings.asset
+100644 blob 879b68f21bf678f88279e93240c747a754398630	ProjectSettings/ProjectVersion.txt
+100644 blob 79fd99ef3e19a2da76256a32536bfadb85900a87	ProjectSettings/QualitySettings.asset
+100644 blob ede5887b3a3e5e7ce4e90f0d893a1e4cdb2c7451	ProjectSettings/SceneTemplateSettings.json
+100644 blob ce8c2432884fcc0d627b3cef54a6ea51d4f766e4	ProjectSettings/ShaderGraphSettings.asset
+100644 blob 6413d11ff54dc0a0b364765f1d35bbd42d7d79cf	ProjectSettings/TagManager.asset
+100644 blob 558a017e1f50b2db73414a1abad3c033922774f8	ProjectSettings/TimeManager.asset
+100644 blob 6ad563183467c100d393c4c910b8cf697e956ca9	ProjectSettings/URPProjectSettings.asset
+100644 blob 7a17e8f78eda70f67c4a317c04987e8b10b4086e	ProjectSettings/UnityConnectSettings.asset
+100644 blob 3a95c98bec50cf72538061fd26eee95398f72128	ProjectSettings/VFXManager.asset
+100644 blob dca288142fc043d5a749e9058fe625505008834f	ProjectSettings/VersionControlSettings.asset
+100644 blob 482590c196f7a82116679f58176b9d1aff21d7f9	ProjectSettings/XRSettings.asset
+100644 blob 40eb4f49e36d7970ccd3e0b8a6cb0a20291abc66	README.md
+100644 blob b31b5fc90d4b044cb59ba3f6cc88c603130f6142	website/app.js
+100644 blob 315f217710f125516acf74e7849b1084e8a74c5b	website/faviconFablab.ico
+100644 blob c06572d82ab02e57b5805ebba06dc18793ac5599	website/images/Geoazur.png
+100644 blob e3fa748c4341c1c142ee88c5683c595a6c72d17a	website/images/UCAlogoQlarge-inverse.png
+100644 blob 7fd0f99aefdfcb9c37cc9222256d9452dd757d0f	website/images/fablab_uca_1024.png
+100644 blob 6c90f89cd66ef6adfdef3e989a44f5b8e4cfc859	website/index.html
+100644 blob 8b6044f809979eadf050c7e72f7db9b8ec56d38b	website/models/StirlingEngine.fbx
+100644 blob 4446a19c30838f519c4f59263a75963f8c857882	website/models/pendule_couples.fbx
+100644 blob 5d8bfd8cea7325f94c0a53a60a1a9486feaec08b	website/models/pendule_simple.fbx
+100644 blob 6efb914e52e2475bf32cc460c7f1cd7675793715	website/models/temperature_Blender2.fbx
+100644 blob e6182433dcc0260c11b40a5af31d5836e97edfa0	website/style.css
