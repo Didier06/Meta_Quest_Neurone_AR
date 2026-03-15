@@ -2346,6 +2346,7 @@ GameObject:
   - component: {fileID: 1173423984}
   - component: {fileID: 1173423986}
   - component: {fileID: 1173423985}
+  - component: {fileID: 1173423987}
   m_Layer: 3
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -2472,6 +2473,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1173423983}
   m_CullTransparentMesh: 1
+--- !u!114 &1173423987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173423983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc5de5b9ae19f94490e7830872698ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SlowRotate
+  rotationSpeed: 10
 --- !u!1 &1194378857
 GameObject:
   m_ObjectHideFlags: 0
@@ -2856,6 +2870,7 @@ GameObject:
   - component: {fileID: 1675953253}
   - component: {fileID: 1675953255}
   - component: {fileID: 1675953254}
+  - component: {fileID: 1675953256}
   m_Layer: 3
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -2982,6 +2997,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1675953252}
   m_CullTransparentMesh: 1
+--- !u!114 &1675953256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675953252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc5de5b9ae19f94490e7830872698ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SlowRotate
+  rotationSpeed: 10
 --- !u!1 &1692821344 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2449170840703071034, guid: 0b1f40c90488ccd4cba3845e84be9867, type: 3}
@@ -3823,6 +3851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2087928470}
   - component: {fileID: 2087928471}
+  - component: {fileID: 2087928475}
   - component: {fileID: 2087928474}
   - component: {fileID: 2087928473}
   - component: {fileID: 2087928472}
@@ -3842,8 +3871,8 @@ Transform:
   m_GameObject: {fileID: 2087928469}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.46916, y: -0.197, z: 0}
-  m_LocalScale: {x: 0.9931803, y: 0.8944462, z: 1.3405052}
+  m_LocalPosition: {x: 0.275, y: -0.18646, z: 0}
+  m_LocalScale: {x: 0.9931803, y: 0.79755086, z: 1.3405052}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 639911738}
@@ -3867,8 +3896,8 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 0.44398746
-  m_Center: {x: -0.43000156, y: 0.10881831, z: 0.02807539}
+  m_Radius: 0.35666674
+  m_Center: {x: -0.43000156, y: 0.19485389, z: 0.02807539}
 --- !u!114 &2087928472
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3964,6 +3993,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Surfaces.ColliderSurface
   _collider: {fileID: 2087928471}
+--- !u!135 &2087928475
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2087928469}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.35
+  m_Center: {x: -0.1, y: 0.19, z: 0}
 --- !u!1 &2097796101
 GameObject:
   m_ObjectHideFlags: 0
